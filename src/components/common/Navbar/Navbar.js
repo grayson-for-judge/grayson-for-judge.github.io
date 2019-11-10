@@ -66,7 +66,7 @@ class Navbar extends Component {
           <h2>Brittany Grayson </h2>
           <p> Milwaukee Circuit Court Judge</p></Brand>
           <Mobile>
-            <button onClick={this.toggleMobileMenu} style={{ color: 'black' }}>
+            <button onClick={this.toggleMobileMenu} style={{ color: 'white' }}>
               <MenuIcon />
             </button>
           </Mobile>
