@@ -12,11 +12,11 @@ import TwitterIcon from '@static/icons/twitter.svg';
 const SOCIAL = [
   {
     icon: InstagramIcon,
-    link: '',
+    link: 'https://www.instagram.com/judgebgrayson',
   },
   {
     icon: TwitterIcon,
-    link: '',
+    link: 'https://www.facebook.com/judgebgrayson',
   },
 ];
 
@@ -49,14 +49,17 @@ const Footer = () => (
             <Copyright>
               <span>
                 Paid For By The Committee to Retain Judge Brittany Grayson
+                <p>Contact Us: judgebgrayson@gmail.com</p>
                 {` `}
               </span>
             </Copyright>
             <SocialIcons>
               {SOCIAL.map(({ icon, link }) => (
-                <ExternalLink href={link}>
+                <button style={{ color: 'white' }}>
+                <ExternalLink  href={link}>
                   <img src={icon} alt="link" />
-                </ExternalLink>
+                </ExternalLink> </button>
+
               ))}
             </SocialIcons>
           </StyledContainer>
@@ -73,6 +76,7 @@ const SocialIcons = styled.div`
     margin: 0 8px;
     width: 24px;
     height: 24px;
+    color: '#FFFFFFF'
   }
 
   @media (max-width: ${props => props.theme.screen.sm}) {
