@@ -51,7 +51,8 @@ class Navbar extends Component {
         {NAV_ITEMS.map(navItem => (
           <NavItem key={navItem}>{this.getNavAnchorLink(navItem)}</NavItem>
         ))}
-        <button2> <StyledExternalLink href='https://secure.actblue.com/' > Contribute </StyledExternalLink></button2>
+
+        <NavItem ><button2> <StyledExternalLink style={{opacity: '2.0' }} href='https://secure.actblue.com/' > Contribute </StyledExternalLink></button2> </NavItem>
       </Scrollspy>
     </NavListWrapper>
   );
