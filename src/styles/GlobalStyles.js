@@ -71,7 +71,6 @@ const GlobalStyles = createGlobalStyle`
     font-size: 20px;
     padding: 6px 12px;
     border-radius: 4px;
-    margin: 0 0.75em;
     color: white
     href: 'https://secure.actblue.com'
   }
