@@ -12,6 +12,8 @@ const FAQS = [
         <li>Tony Evers - Governor</li>
         <li>Mandela Barnes - Lt. Governor</li>
         <li>John Chisholm - Milwaukee District Attorney</li>
+        <li>Evan Goyke -	State Representative</li>
+        <li>Khalif Rainey - Alderman</li>
       </>
     ),
   },
@@ -19,12 +21,102 @@ const FAQS = [
     title: 'Court Officials',
     content: () => (
       <>
-        <li>Hon. Maria Dorsey	Milwaukee Court Commissioner</li>
-        <li>Hon. Cynthia Davis	Milwaukee Circuit Court Judge</li>
-        <li>Hon. Christopher Foley	Milwaukee Circuit Court Judge</li>
-        <li>Hon. Laura Gramling-Perez	Milwaukee Circuit Court Judge</li>
-        <li>Hon. Jane Carroll	Milwaukee Circuit Court Judge</li>
-        <li>Hon. Carl Ashley	Milwaukee Circuit Court Judge</li>
+        <li>
+        Hon. M. Joseph Donald - District 1 Court of Appeals Judge</li>
+
+        <li>
+        Hon. Cynthia Davis - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Christopher Foley - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Laura Gramling-Perez - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Jane Carroll - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Carl Ashley - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Christopher Dee - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. David Hansher - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Michelle Havas - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Thomas McAdams - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Marshall Murray - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. William Pocan - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Frederick Rosa - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Mark Sanders - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Audrey Skwiewarski - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. JD Watts - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. David Swanson - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Timothy Witkowiak - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Kevin Martens - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Ellen Brostrom - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Laura Crivello - Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. Maria Dorsey - Milwaukee Court Commissioner</li>
+
+        <li>
+        Hon. Julia Vosper - Milwaukee Court Commissioner</li>
+
+        <li>
+        Hon. Barry Phillips - Milwaukee Court Commissioner</li>
+
+        <li>
+        Hon. Grace Flynn - Milwaukee Court Commissioner</li>
+
+        <li>
+        Hon. Cedric Cornwall - Milwaukee Court Commissioner</li>
+
+        <li>
+        Hon. Dewey Martin - Milwaukee Court Commissioner</li>
+
+        <li>
+        Hon. Ana Berrios-Schroeder - Family Court Commissioner</li>
+
+        <li>
+        Hon. Sheila Hill-Roberts - Assistant Family Court Commissioner</li>
+
+        <li>
+        Hon. Louis Butler - Former Wisconsin Supreme Court Justice</li>
+
+        <li>
+        Hon. Jeffrey Kremers - Retired Milwaukee Circuit Court Judge</li>
+
+        <li>
+        Hon. James Gramling - Retired Milwaukee Municipal Court Judge</li>
+
       </>
     ),
   },
@@ -32,8 +124,8 @@ const FAQS = [
     title: 'Attorneys',
     content: () => (
       <>
-        
-        <li>
+        <li>Margaret Daun -	Milwaukee Corporation Counsel</li>
+                <li>
         Ryan Sanson</li>
 
         <li>
@@ -46,7 +138,7 @@ const FAQS = [
         Michael Reyes</li>
 
         <li>
-        Step Nolten</li>
+        Stephan Nolten</li>
 
         <li>
         Kathryn Sarner</li>
@@ -80,6 +172,9 @@ const FAQS = [
 
         <li>
         Lovell Johnson</li>
+
+        <li>
+        John Chisholm</li>
 
         <li>
         Latrice Knighton</li>
@@ -149,6 +244,100 @@ const FAQS = [
 
         <li>
         Caitlin Noonan</li>
+
+        <li>
+        Dorothy Dey</li>
+
+        <li>
+        Catherine Flaherty</li>
+
+        <li>
+        Tawny Brooks</li>
+
+        <li>
+        Robb Marcus</li>
+
+        <li>
+        Alexander Cossi</li>
+
+        <li>
+        Heidi Galvan</li>
+
+        <li>
+        Ed Zlotocha</li>
+
+        <li>
+        Steve Wiechmann</li>
+
+        <li>
+        Jon Lamendola</li>
+
+        <li>
+        Chris Velnetske</li>
+
+        <li>
+        Peter Bockhorst</li>
+
+        <li>
+        Steve Licata</li>
+
+        <li>
+        Mary Moore</li>
+
+        <li>
+        Duke Lehto</li>
+
+        <li>
+        Cheryl Ward</li>
+
+        <li>
+        Jennifer Baumler</li>
+
+        <li>
+        Tom Miller</li>
+
+        <li>
+        Russell Bohach</li>
+
+        <li>
+        Pam Mehta</li>
+
+        <li>
+        Eric Lowenberg</li>
+
+        <li>
+        Mary Mountin</li>
+
+        <li>
+        Steve Kaminski</li>
+
+        <li>
+        Scott Phillips</li>
+
+        <li>
+        Pamela Crawford</li>
+
+        <li>
+        Stephanie Benske</li>
+
+        <li>
+        David Bordow</li>
+
+        <li>
+        Isa Yamahiro</li>
+
+        <li>
+        Jodi Sanfelippo</li>
+
+        <li>
+        Lynn Levihn</li>
+
+        <li>
+        Rick Falk</li>
+
+        <li>
+        Frank T. Crivello II</li>
+
       </>
     ),
   },
