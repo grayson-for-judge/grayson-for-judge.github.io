@@ -8,6 +8,7 @@ import ExternalLink from '@common/ExternalLink';
 
 import InstagramIcon from '@static/icons/instagram.svg';
 import TwitterIcon from '@static/icons/twitter.svg';
+import GithubIcon from '@static/icons/github.svg';
 
 const SOCIAL = [
   {
@@ -17,6 +18,10 @@ const SOCIAL = [
   {
     icon: TwitterIcon,
     link: 'https://www.facebook.com/judgebgrayson',
+  },
+  {
+    icon: GithubIcon,
+    link: 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T7MC5HUDJGF64&source=url',
   },
 ];
 
@@ -58,8 +63,7 @@ const Footer = () => (
                 <button style={{ color: 'white' }}>
                 <ExternalLink  href={link}>
                   <img src={icon} alt="link" />
-                </ExternalLink> </button>
-
+                </ExternalLink> </button>        
               ))}
             </SocialIcons>
           </StyledContainer>

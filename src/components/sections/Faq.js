@@ -115,12 +115,16 @@ const FAQS = [
         <li>
         Hon. Julia Vosper - Milwaukee Court Commissioner</li>
 
+        <li> Hon.	Joseph Wall - Milwaukee Circuit Court Judge</li>
+
         <li>
         Hon. JD Watts - Milwaukee Circuit Court Judge</li>
 
         <li>
         Hon. Timothy
         Witkowiak - Milwaukee Circuit Court Judge</li>
+
+        <li>Hon. Glenn	Yamahiro -	Milwaukee Circuit Court Judge</li>
       </>
     ),
   },
@@ -168,6 +172,9 @@ const FAQS = [
         Russell Bohach</li>
 
         <li>
+        DavidBordow</li>
+
+        <li>
         Tawny Brooks</li>
 
         <li>
@@ -179,6 +186,9 @@ const FAQS = [
 
         <li>
         Nicole Cameli</li>
+
+        <li>
+        MarkCameli</li>
 
         <li>
         Lacey Coonen</li>
@@ -214,16 +224,25 @@ const FAQS = [
         Barbara Due</li>
 
         <li>
+        MarciaFacey Drame</li>
+
+        <li>
         Rick Falk</li>
 
         <li>
         Catherine Flaherty</li>
 
         <li>
+        DebraFohr</li>
+
+        <li>
         Laurie Frey</li>
 
         <li>
         Heidi Galvan</li>
+
+        <li>
+        YolandaGauna</li>
 
         <li>
         Stephen Hall</li>
@@ -245,6 +264,9 @@ const FAQS = [
 
         <li>
         Tanner Kilander</li>
+
+        <li>
+        CarlKnepel</li>
 
         <li>
         Latrice Knighton</li>
@@ -274,6 +296,9 @@ const FAQS = [
         David Malone</li>
 
         <li>
+        CalvinMalone</li>
+
+        <li>
         Robb Marcus</li>
 
         <li>
@@ -296,6 +321,9 @@ const FAQS = [
 
         <li>
         Elisabeth Mueller</li>
+
+        <li>
+        DanielNarvey</li>
 
         <li>
         Sammi-Jo Nevin</li>
@@ -332,6 +360,9 @@ const FAQS = [
         Amber Raffeet August</li>
 
         <li>
+        EricaReib</li>
+
+        <li>
         Gregory Renden</li>
 
         <li>
@@ -342,6 +373,9 @@ const FAQS = [
 
         <li>
         Nicole Robbins</li>
+
+        <li>
+        CourtneyRoelandts</li>
 
         <li>
         Ryan Sanson</li>
@@ -359,6 +393,9 @@ const FAQS = [
         Claire Starling</li>
 
         <li>
+        DaineyThomas</li>
+
+        <li>
         Michael Thurston</li>
 
         <li>
@@ -366,6 +403,9 @@ const FAQS = [
 
         <li>
         Cheryl Ward</li>
+
+        <li>
+        DeannaWeiss</li>
 
         <li>
         S. Danielle White</li>
@@ -381,6 +421,7 @@ const FAQS = [
 
         <li>
         Edward Zlotocha</li>
+
 
       </>
     ),
