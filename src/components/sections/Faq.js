@@ -172,7 +172,7 @@ const FAQS = [
         Russell Bohach</li>
 
         <li>
-        DavidBordow</li>
+        David Bordow</li>
 
         <li>
         Tawny Brooks</li>
@@ -188,7 +188,7 @@ const FAQS = [
         Nicole Cameli</li>
 
         <li>
-        MarkCameli</li>
+        Mark Cameli</li>
 
         <li>
         Lacey Coonen</li>
@@ -224,7 +224,7 @@ const FAQS = [
         Barbara Due</li>
 
         <li>
-        MarciaFacey Drame</li>
+        Marcia Facey Drame</li>
 
         <li>
         Rick Falk</li>
@@ -233,7 +233,7 @@ const FAQS = [
         Catherine Flaherty</li>
 
         <li>
-        DebraFohr</li>
+        Debra Fohr</li>
 
         <li>
         Laurie Frey</li>
@@ -242,7 +242,7 @@ const FAQS = [
         Heidi Galvan</li>
 
         <li>
-        YolandaGauna</li>
+        Yolanda Gauna</li>
 
         <li>
         Stephen Hall</li>
@@ -266,7 +266,7 @@ const FAQS = [
         Tanner Kilander</li>
 
         <li>
-        CarlKnepel</li>
+        Carl Knepel</li>
 
         <li>
         Latrice Knighton</li>
@@ -296,7 +296,7 @@ const FAQS = [
         David Malone</li>
 
         <li>
-        CalvinMalone</li>
+        Calvin Malone</li>
 
         <li>
         Robb Marcus</li>
@@ -323,7 +323,7 @@ const FAQS = [
         Elisabeth Mueller</li>
 
         <li>
-        DanielNarvey</li>
+        Daniel Narvey</li>
 
         <li>
         Sammi-Jo Nevin</li>
@@ -360,10 +360,10 @@ const FAQS = [
         Amber Raffeet August</li>
 
         <li>
-        EricaReib</li>
+        Erica Reib</li>
 
         <li>
-        Gregory Renden</li>
+        Gregory  Renden</li>
 
         <li>
         Michael Reyes</li>
@@ -375,7 +375,7 @@ const FAQS = [
         Nicole Robbins</li>
 
         <li>
-        CourtneyRoelandts</li>
+        Courtney Roelandts</li>
 
         <li>
         Ryan Sanson</li>
@@ -393,7 +393,7 @@ const FAQS = [
         Claire Starling</li>
 
         <li>
-        DaineyThomas</li>
+        Dainey Thomas</li>
 
         <li>
         Michael Thurston</li>
@@ -405,10 +405,10 @@ const FAQS = [
         Cheryl Ward</li>
 
         <li>
-        DeannaWeiss</li>
+        Deanna Weiss</li>
 
         <li>
-        S. Danielle White</li>
+        S. Danielle  White</li>
 
         <li>
         Steven Wiechmann</li>
