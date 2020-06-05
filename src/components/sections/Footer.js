@@ -21,7 +21,7 @@ const SOCIAL = [
   },
   {
     icon: GithubIcon,
-    link: 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T7MC5HUDJGF64&source=url',
+    link: '',
   },
 ];
 
@@ -44,10 +44,7 @@ const Footer = () => (
     render={data => (
       <React.Fragment>
         <Art>
-          <Img
-            fluid={data.art_pot.childImageSharp.fluid}
-            style={{ width: 480, maxWidth: '100%', marginBottom: -0 }}
-          />
+
         </Art>
         <FooterWrapper>
           <StyledContainer>

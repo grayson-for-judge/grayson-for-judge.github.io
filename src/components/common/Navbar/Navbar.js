@@ -52,7 +52,7 @@ class Navbar extends Component {
           <NavItem key={navItem}>{this.getNavAnchorLink(navItem)}</NavItem>
         ))}
 
-        <NavItem ><button2> <StyledExternalLink style={{opacity: '2.0' }} href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T7MC5HUDJGF64&source=url' > Contribute </StyledExternalLink></button2> </NavItem>
+        <NavItem ><button2> <StyledExternalLink style={{opacity: '2.0' }} href='' > Contribute </StyledExternalLink></button2> </NavItem>
       </Scrollspy>
     </NavListWrapper>
   );
