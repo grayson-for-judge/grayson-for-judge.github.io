@@ -79,7 +79,7 @@ const Background = () => (
                 <br>
                 </br>
                 <p style={{ color: '#242544' }}>
-                Brittany earned her B.S. from Marquette University and her J.D. from Marquette University Law School.  She lives in Wauwatosa with her husband, Ryan.  When Brittany is not on the bench, you might find her at a yoga class or having dinner at one of Milwaukee’s newest restaurants. 
+                Brittany earned her B.S. from Marquette University and her J.D. from Marquette University Law School.  She lives in Wauwatosa.  When Brittany is not on the bench, you might find her at a yoga class or having dinner at one of Milwaukee’s newest restaurants. 
                 </p>
             </LogoGrid>
           </div>
