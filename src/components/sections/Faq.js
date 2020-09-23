@@ -378,9 +378,6 @@ const FAQS = [
         Courtney Roelandts</li>
 
         <li>
-        Ryan Sanson</li>
-
-        <li>
         Kathryn Sarner</li>
 
         <li>
